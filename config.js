@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['𑣲𝑨', '⋆˙⟡♡', '⸜(｡˃ ᵕ ˂ )⸝♡', 'XOXO💋', '💗'],  // Heart emojis
+        hearts: ['💗', '<3', '>_<', 'xoxo', '💐', '💝' ],
         bears: ['rawr', ':3']                       // Cute bear emojis
     },
 
@@ -42,17 +42,17 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOW, like I knew I was lucky but omgggg EEEEEEE 𓈒ㅤׂ 𝜗𝜚 ",
+        extreme: "I KNEW IT I KNEW IT I LOVE YOU TOOOOOO 💖",
                         // Shows when they go past 5000%
-        high: "WOW, like I knew I was lucky but omgggg EEEEEEE ❤︎ ⁠⋆｡°✩",              // Shows when they go past 1000%
+        high: "WOW, like I knew I was lucky but omgggg EEEEEEE 💖",              // Shows when they go past 1000%
         normal: ":3 :3 :3 Im going to nom youu"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yayayayaya! I'm the luckiest person in the world! ❤︎₊ ⊹",
+        title: "Yayayayaya! I'm the luckiest person in the world! ",
         message: "YIPPIEEE SMOOCH INCOMING, Thank you for being my Valentine!",
-        emojis: "‪ ‪♡ ❤︎₊ ⊹ 💗ྀི °❀⋆.ೃ࿔*:･‪‪❤︎‬ 𖦹 ᯓ★// These will bounce around
+        emojis: "‪💗 💖 💫 💌 🌹",  //these will bounce around 
     },
 
     // Color scheme for the website
