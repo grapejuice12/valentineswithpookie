@@ -52,7 +52,7 @@ const CONFIG = {
     celebration: {
         title: "Yayayayaya! I'm the luckiest person in the world! ",
         message: "YIPPIEEE SMOOCH INCOMING, Thank you for being my Valentine!",
-        emojis: "‪💗 💖 💫 💌 🌹",  //these will bounce around 
+        emojis: " 💗 💖 💫 💌 🌹",  //these will bounce around 
     },
 
     // Color scheme for the website
